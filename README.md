@@ -1,37 +1,59 @@
 # Hi, I'm Arglax! 👋
+
+<p align="left">
+  <a href="https://github.com/Arglax/Mobile-WuWa-Config/stargazers"><img src="https://img.shields.io/github/stars/Arglax/Mobile-WuWa-Config?style=plastic" height="28"></a>
+  <a href="https://discord.gg/renjxYBEZM"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=plastic" height="28"></a>
+</p>
+
 ---
 
 ### 🚀 About Me
-- I'm in the electrical engineering field and data science
-- I love dark souls (bonk build!)
-- Self-taught in most programming experience (thank you internet)
-- I’m currently working on [**WuWa-Mobile-Config**](https://github.com/Arglax/Mobile-WuWa-Config/tree/main) and expanding its features. <p align="left">
-  <a href="https://github.com/Arglax/WuWa-Config/stargazers"><img src="https://img.shields.io/github/stars/Arglax/WuWa-Config?style=plastic" height="28"></a>
-  <a href="https://discord.gg/renjxYBEZM"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=plastic" height="28"></a>
-</p>
-- I created a utility website for wuwa configs : https://arglax.github.io/Mobile-WuWa-Config
-
-
+- ⚡ **Background:** Electrical Engineering and Data Science
+- 🛠️ **Journey:** Self-taught in most programming experiences (thanks internet).
+- 🎮 **Fun Fact:** I love *Dark Souls* . I bonk build.
+- 🔭 **Current Hobby:** Developing [**WuWa-Mobile-Config**](https://github.com/Arglax/Mobile-WuWa-Config/tree/main) to expand utility tools for mobile configurations for Wuthering Waves.
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** R, Markdown, HTML/CSS
-- **Tools:** Git, GitHub, Figma,
+- **Languages:** R, C++, Python, Java, JavaScript, HTML/CSS, Markdown
+- **Tools:** GitHub, VS Code / Visual Studio
 
-### 📊 GitHub Stats
-prolly gonna add this later
-<!--- Check out github-readme-stats to generate these dynamically! --->
+### 🌐 Live Projects
 
-<!--
-**Arglax/Arglax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 🗺️ Project Portal | Description | Status |
+| :--- | :--- | :--- |
+| **[WuWa Portal](https://arglax.github.io/Mobile-WuWa-Config)** | Interactive utility website and configuration hub for mobile devices. | ![Active](https://img.shields.io/badge/Status-Live-success?style=plastic) |
+| **[Solar Dashboard](https://arglax.github.io/solar-dashboard/)** | Dynamic analytics and tracking interface for solar energy hardware. | ![Active](https://img.shields.io/badge/Status-Live-success?style=plastic) |
 
-Here are some ideas to get you started:
+### 📌 Featured Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Arglax/Mobile-WuWa-Config">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arglax&repo=Mobile-WuWa-Config&theme=react&hide_border=true" alt="Mobile-WuWa-Config" width="100%">
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Arglax/solar-dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arglax&repo=solar-dashboard&theme=react&hide_border=true" alt="Solar Dashboard" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 📊 GitHub Analytics
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Arglax&show_icons=true&theme=react&hide_border=true" alt="Arglax's GitHub Stats" width="100%">
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arglax&layout=compact&theme=react&hide_border=true" alt="Arglax's Top Languages" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
