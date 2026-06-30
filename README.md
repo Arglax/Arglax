@@ -3,15 +3,13 @@
 <p align="left">
   <a href="https://github.com/Arglax/Mobile-WuWa-Config/stargazers"><img src="https://img.shields.io/github/stars/Arglax/Mobile-WuWa-Config?style=plastic" height="28"></a>
   <a href="https://discord.gg/renjxYBEZM"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=plastic" height="28"></a>
-</p>
+</p>  
 
----
-
-### 🚀 About Me
-- ⚡ **Background:** Electrical Engineering and Data Science
-- 🛠️ **Journey:** Self-taught in most programming experiences (thanks internet).
-- 🎮 **Fun Fact:** I love *Dark Souls* . I bonk build.
-- 🔭 **Current Hobby:** Developing [**WuWa-Mobile-Config**](https://github.com/Arglax/Mobile-WuWa-Config/tree/main) to expand utility tools for mobile configurations for Wuthering Waves.
+### About Me ![Profile Views](https://komarev.com/ghpvc/?username=Arglax&color=blueviolet)
+- **Background:** Electrical Engineering and Data Science
+- **Journey:** Self-taught in most programming experiences (thanks internet).
+- **Fun Fact:** I love *Dark Souls* . I bonk build.
+- **Current Hobby:** Developing [**WuWa-Mobile-Config**](https://github.com/Arglax/Mobile-WuWa-Config/tree/main) to expand utility tools for mobile configurations for Wuthering Waves.
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** R, C++, Python, Java, JavaScript, HTML/CSS, Markdown
