@@ -5,7 +5,7 @@
   <a href="https://discord.gg/renjxYBEZM"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=plastic" height="28"></a>
 </p>  
 
-### About Me ![Profile Views](https://komarev.com/ghpvc/?username=Arglax&color=blueviolet)
+### About Me !["Profile Views since June 30, 2026" ](https://komarev.com/ghpvc/?username=Arglax&color=blueviolet)
 - **Background:** Electrical Engineering and Data Science
 - **Journey:** Self-taught in most programming experiences (thanks internet).
 - **Fun Fact:** I love *Dark Souls* . I bonk build.
@@ -43,9 +43,9 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Arglax&show_icons=true&theme=react&hide_border=true" alt="Arglax's GitHub Stats" width="100%">
+<td valign="top" width="50%">
+      <a href="https://github.com/stats-organization/github-stats-extended">
+        <img src="https://github-stats-extended.vercel.app/api?username=Arglax&show_icons=true&theme=react&hide_border=true" alt="Arglax's GitHub Stats" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
