@@ -39,30 +39,21 @@
 
 <table width="100%">
   <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/Arglax/Mobile-WuWa-Config">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Arglax&repo=Mobile-WuWa-Config&theme=react&hide_border=true"
-          width="75%"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Arglax/Farcave">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Arglax&repo=Farcave&theme=react&hide_border=true"
-          width="100%"
-        />
+        <img src="./profile/pin-farcave.svg" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Arglax/solar-dashboard">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Arglax&repo=solar-dashboard&theme=react&hide_border=true"
-          width="100%"
-        />
+        <img src="./profile/pin-solar-dashboard.svg" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Arglax/Mobile-WuWa-Config">
+        <img src="./profile/pin-mobile-wuwa-config.svg" width="75%" />
       </a>
     </td>
   </tr>
@@ -75,14 +66,10 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://github.com/stats-organization/github-stats-extended">
-        <img src="https://github-stats-extended.vercel.app/api?username=Arglax&show_icons=true&theme=react&hide_border=true" alt="Arglax's GitHub Stats" width="100%">
-      </a>
+      <img src="./profile/stats.svg" alt="Arglax's GitHub Stats" width="100%">
     </td>
     <td valign="top" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arglax&layout=compact&theme=react&hide_border=true" alt="Arglax's Top Languages" width="100%">
-      </a>
+      <img src="./profile/top-langs.svg" alt="Arglax's Top Languages" width="100%">
     </td>
   </tr>
 </table>
