@@ -29,100 +29,44 @@
 ## 🖼️ App Showcases & Interfaces
 
 <table width="100%">
-  <!-- Row 1: Spotlight (WuWaLab) -->
+  <!-- Row 1: Spotlight (WuWaLab - Mobile) -->
   <tr>
     <td colspan="2" align="center" valign="middle">
       <h3>🌟 <a href="https://github.com/Arglax/WuWaLab">WuWaLab</a></h3>
       <p><i>Mobile companion app for Wuthering Waves (Astrite logging & pull planning)</i></p>
       <a href="https://github.com/Arglax/WuWaLab">
-        <img src="./profile/wuwalab-preview.png" height="220" alt="WuWaLab App Screenshot" />
+        <img src="./profile/wuwalab-preview.png" height="320" alt="WuWaLab App Screenshot" />
       </a>
     </td>
   </tr>
-  <!-- Row 2 -->
+  <!-- Row 2: Desktop / Desktop -->
   <tr>
     <td width="50%" align="center" valign="middle">
       <h4><a href="https://github.com/Arglax/Farcave">Farcave</a></h4>
       <a href="https://github.com/Arglax/Farcave">
-        <img src="./profile/farcave-preview.png" height="180" alt="Farcave Screenshot" />
+        <img src="./profile/farcave-preview.png" width="95%" alt="Farcave Screenshot" />
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
       <h4><a href="https://arglax.github.io/Mobile-WuWa-Config">WuWa Portal</a></h4>
       <a href="https://arglax.github.io/Mobile-WuWa-Config">
-        <img src="./profile/wuwa-portal-preview.png" height="180" alt="WuWa Portal Screenshot" />
+        <img src="./profile/wuwa-portal-preview.png" width="95%" alt="WuWa Portal Screenshot" />
       </a>
     </td>
   </tr>
-  <!-- Row 3 -->
+  <!-- Row 3: Mobile / Desktop -->
   <tr>
     <td width="50%" align="center" valign="middle">
       <h4><a href="https://github.com/Arglax/Custom-Metadata-Builder">Custom Metadata Builder</a></h4>
       <a href="https://github.com/Arglax/Custom-Metadata-Builder">
-        <img src="./profile/metadata-builder-preview.png" height="180" alt="Custom Metadata Builder Screenshot" />
+        <img src="./profile/metadata-builder-preview.png" height="260" alt="Custom Metadata Builder Screenshot" />
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
       <h4><a href="https://arglax.github.io/solar-dashboard/">Solar Dashboard</a></h4>
       <a href="https://arglax.github.io/solar-dashboard/">
-        <img src="./profile/solar-preview.png" height="180" alt="Solar Dashboard Screenshot" />
+        <img src="./profile/solar-preview.png" width="95%" alt="Solar Dashboard Screenshot" />
       </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📌 Featured Repositories
-
-<table width="100%">
-  <!-- Top Spotlight for WuWaLab -->
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <a href="https://github.com/Arglax/WuWaLab">
-        <img src="./profile/pin-wuwalab.svg" height="120" alt="WuWaLab Featured Repository" />
-      </a>
-    </td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/Arglax/Farcave">
-        <img src="./profile/pin-farcave.svg" height="110" alt="Farcave Repository" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/Arglax/Mobile-WuWa-Config">
-        <img src="./profile/pin-mobile-wuwa-config.svg" height="110" alt="Mobile WuWa Config Repository" />
-      </a>
-    </td>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/Arglax/Custom-Metadata-Builder">
-        <img src="./profile/pin-custom-metadata-builder.svg" height="110" alt="Custom Metadata Builder Repository" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/Arglax/solar-dashboard">
-        <img src="./profile/pin-solar-dashboard.svg" height="110" alt="Solar Dashboard Repository" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="./profile/stats.svg" alt="Arglax's GitHub Stats" height="165" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="./profile/top-langs.svg" alt="Arglax's Top Languages" height="165" />
     </td>
   </tr>
 </table>
