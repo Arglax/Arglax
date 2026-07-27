@@ -70,3 +70,16 @@
     </td>
   </tr>
 </table>
+
+## 📊 GitHub Analytics
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="./profile/stats.svg" alt="Arglax's GitHub Stats" height="165" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="./profile/top-langs.svg" alt="Arglax's Top Languages" height="165" />
+    </td>
+  </tr>
+</table>
