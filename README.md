@@ -8,7 +8,6 @@
 ### About Me !["Profile Views since June 30, 2026"](https://komarev.com/ghpvc/?username=Arglax\&color=blueviolet)
 
 * **Background:** Electrical Engineering with interests in Data Science, Software Development, and AI.
-* **Journey:** Mostly self-taught through curiosity, experimentation, and countless hours of learning from the internet.
 * **Current Interests:** Data science, game development, automation, and systems programming.
 * **Fun Fact:** I enjoy *Dark Souls*. Strength builds. Bonk.
 * **Currently Building:**
