@@ -17,6 +17,14 @@
   * **WuWa-Mobile-Config** – Utility tools, configuration resources, and a lightweight **Config Patcher** app for *Wuthering Waves* mobile players.
   * **Custom Metadata Builder** – Metadata editor designed for configuration distributors and creators.
 
+Mobile WuWa Config: [![Total Downloads](https://img.shields.io/github/downloads/Arglax/Mobile-WuWa-Config/total.svg)](https://github.com/Arglax/Mobile-WuWa-Config/releases)
+
+Config Patcher(New Repo): [![Total Downloads](https://img.shields.io/github/downloads/Arglax/WuWa-Mobile-Config-Patcher/total.svg)](https://github.com/Arglax/WuWa-Mobile-Config-Patcher/releases)
+
+WuWaLab: [![Total Downloads](https://img.shields.io/github/downloads/Arglax/WuWaLab/total.svg)](https://github.com/Arglax/WuWaLab/releases)
+
+Metadata Builder Tool: [![Total Downloads](https://img.shields.io/github/downloads/Arglax/Custom-Metadata-Builder/total.svg)](https://github.com/Arglax/Custom-Metadata-Builder/releases)
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -25,50 +33,6 @@
 * **Tools:** Git, GitHub, VS Code, Visual Studio
 
 ---
-## 🖼️ App Showcases & Interfaces
-
-<table width="100%">
-  <!-- Row 1: Spotlight (WuWaLab - Mobile) -->
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <h3>🌟 <a href="https://github.com/Arglax/WuWaLab">WuWaLab</a></h3>
-      <p><i>Mobile companion app for Wuthering Waves (Astrite logging & pull planning)</i></p>
-      <a href="https://github.com/Arglax/WuWaLab">
-        <img src="./profile/wuwalab-preview.png" height="320" alt="WuWaLab App Screenshot" />
-      </a>
-    </td>
-  </tr>
-  <!-- Row 2: Desktop / Desktop -->
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <h4><a href="https://github.com/Arglax/Farcave">Farcave</a></h4>
-      <a href="https://github.com/Arglax/Farcave">
-        <img src="./profile/farcave-preview.png" width="95%" alt="Farcave Screenshot" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <h4><a href="https://arglax.github.io/Mobile-WuWa-Config">WuWa Portal</a></h4>
-      <a href="https://arglax.github.io/Mobile-WuWa-Config">
-        <img src="./profile/wuwa-portal-preview.png" width="95%" alt="WuWa Portal Screenshot" />
-      </a>
-    </td>
-  </tr>
-  <!-- Row 3: Mobile / Desktop -->
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <h4><a href="https://github.com/Arglax/Custom-Metadata-Builder">Custom Metadata Builder</a></h4>
-      <a href="https://github.com/Arglax/Custom-Metadata-Builder">
-        <img src="./profile/metadata-builder-preview.png" height="260" alt="Custom Metadata Builder Screenshot" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <h4><a href="https://arglax.github.io/solar-dashboard/">Solar Dashboard</a></h4>
-      <a href="https://arglax.github.io/solar-dashboard/">
-        <img src="./profile/solar-preview.png" width="95%" alt="Solar Dashboard Screenshot" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## 📊 GitHub Analytics
 
