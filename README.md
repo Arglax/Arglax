@@ -9,7 +9,7 @@
 
 * **Background:** Electrical Engineering with interests in Data Science, Software Development, and AI.
 * **Current Interests:** Data science, game development, automation, and systems programming.
-* **Fun Fact:** I enjoy *Dark Souls*. Strength builds. Bonk.
+* **Fun Fact:** I enjoy *Dark Souls*. Strength builds. Bonk. I also do a lot of reverse engineering and game trainer programs for Android devices and games ported from Windows, along with Ruffle integration.  
   
 * **Currently Building:**
   * 📱 **[WuWaLab](https://github.com/Arglax/WuWaLab)** – Mobile companion app for *Wuthering Waves* with Astrite logging, income accounting, and pull planning. *(will be updated on October so events and countdowns will be cloud-based now)*
