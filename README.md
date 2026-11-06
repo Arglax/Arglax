@@ -12,11 +12,12 @@
 * **Fun Fact:** I enjoy *Dark Souls*. Strength builds. Bonk. I also do a lot of reverse engineering and game trainer programs for Android devices and games ported from Windows, along with Ruffle integration.  
   
 * **Currently Building:**
-  * 📱 **[WuWaLab](https://github.com/Arglax/WuWaLab)** – Mobile companion app for *Wuthering Waves* with Astrite logging, income accounting, and pull planning. *(will be updated on October so events and countdowns will be cloud-based now)*
-  * **Farcave** – A terminal-first dark fantasy roguelike RPG engine with modular story chapters and permanent consequences. (Hiatus)
-  * **WuWa-Mobile-Config** – Config presets for *Wuthering Waves* mobile players.
-  * **WuWa-Mobile-Config-Patcher** - One-click patch tool for easier config patching and switching.
-  * **Custom Metadata Builder** – Metadata editor designed for configuration distributors and creators.
+* New builds: Imrpoved mobile port for AE Games like Dragonfable, MechQuest, AdventureQuest, and AQWorlds.    
+  * 📱 **[WuWaLab](https://github.com/Arglax/WuWaLab)** – Mobile companion app for *Wuthering Waves* (Hiatus)  
+  * **Farcave** – A terminal-first dark fantasy roguelike RPG engine with modular story chapters and permanent consequences. (Hiatus)  
+  * **WuWa-Mobile-Config** – Config presets for *Wuthering Waves* mobile players.   
+  * **WuWa-Mobile-Config-Patcher** - One-click patch tool for easier config patching and switching. (Final version is out)   
+  * **Custom Metadata Builder** – Metadata editor designed for configuration distributors and creators. (Final version upcoming)  
 
 Mobile WuWa Config: [![Total Downloads](https://img.shields.io/github/downloads/Arglax/Mobile-WuWa-Config/total.svg)](https://github.com/Arglax/Mobile-WuWa-Config/releases)
 
