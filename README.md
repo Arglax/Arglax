@@ -6,13 +6,9 @@
 </p>
 
 ### About Me !["Profile Views since June 30, 2026"](https://komarev.com/ghpvc/?username=Arglax\&color=blueviolet)
-
-* **Background:** Electrical Engineering with interests in Data Science, Software Development, and AI.
-* **Current Interests:** Data science, game development, automation, and systems programming.
-* **Fun Fact:** I enjoy *Dark Souls*. Strength builds. Bonk. I also do a lot of reverse engineering and game trainer programs for Android devices and games ported from Windows, along with Ruffle integration.  
   
 * **Currently Building:**
-* New builds: Imrpoved mobile port for AE Games like Dragonfable, MechQuest, AdventureQuest, and AQWorlds.    
+* New builds: Improved mobile port for AE Games like Dragonfable, MechQuest, AdventureQuest, and AQWorlds.    
   * 📱 **[WuWaLab](https://github.com/Arglax/WuWaLab)** – Mobile companion app for *Wuthering Waves* (Hiatus)  
   * **Farcave** – A terminal-first dark fantasy roguelike RPG engine with modular story chapters and permanent consequences. (Hiatus)  
   * **WuWa-Mobile-Config** – Config presets for *Wuthering Waves* mobile players.   
